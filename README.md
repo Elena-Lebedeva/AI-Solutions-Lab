@@ -35,8 +35,8 @@ This repository showcases functional applications and custom tools developed usi
 **Project Documentation:**
 * ![AI Processing Architecture](AI_Processing_Architecture.jpg)
 * *Diagram: Translating fragmented static PDFs into a dynamic UI using Gemini.*
-* ![Nyamp App Mobile UI](nyamp_mobile_ui.jpg)
-* ![Nyamp App Desktop UI](nyamp_desktop_ui.jpg)
+* ![Nyamp App Mobile UI](nyamp_mobile_ui.png)
+* ![Nyamp App Desktop UI](nyamp_desktop_ui.png)
 ---
 
 ## 🛠 Technical Framework: Vibe Coding
