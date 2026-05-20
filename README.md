@@ -33,10 +33,10 @@ This repository showcases functional applications and custom tools developed usi
 
 * **Key Impact (Community Utility):** Successfully deprecated the reliance on scattered PDFs, creating a clean, centralized "single source of truth." What began as a personal workflow optimization is now a live, highly adopted tool deployed via Google Cloud Run, serving the wider parent community at the school. 
 **Project Documentation:**
-* ![AI Processing Architecture](Menú Bressol.png)
+* ![AI Processing Architecture](AI_Processing_Architecture.jpg)
 * *Diagram: Translating fragmented static PDFs into a dynamic UI using Gemini.*
-* ![Nyamp App Mobile UI](Nyamp! Menú Bressol.jpg)
-* ![Nyamp App Desktop UI](nyamp_desktop_ui.png)
+* ![Nyamp App Mobile UI](nyamp_mobile_ui.jpg)
+* ![Nyamp App Desktop UI](nyamp_desktop_ui.jpg)
 ---
 
 ## 🛠 Technical Framework: Vibe Coding
