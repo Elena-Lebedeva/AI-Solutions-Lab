@@ -30,8 +30,13 @@ This repository showcases functional applications and custom tools developed usi
 
 * **The Objective:** To solve a localized, fragmented data problem for a school community. Previously, tracking the daily kindergarten menu required parents to manually cross-reference three separate, static PDFs (a school calendar mapping week numbers, and two seasonal 8-week rotation matrices).
 * **The Logic:** Built using **"Vibe Coding" in Google AI Studio**. By leveraging the reasoning capabilities of **Gemini 1.5 Pro**, I engineered a lightweight application that ingests and automates the underlying calendar rules and seasonal schedules. The app dynamically tracks the exact rotational week and extracts the correct day's menu with zero manual input required.
-* **Key Impact (Community Utility):** Successfully deprecated the reliance on scattered PDFs, creating a clean, centralized "single source of truth." What began as a personal workflow optimization is now a live, highly adopted tool deployed via Google Cloud Run, serving the wider parent community at the school. 
 
+* **Key Impact (Community Utility):** Successfully deprecated the reliance on scattered PDFs, creating a clean, centralized "single source of truth." What began as a personal workflow optimization is now a live, highly adopted tool deployed via Google Cloud Run, serving the wider parent community at the school. 
+**Project Documentation:**
+* ![AI Processing Architecture](AI_Processing_Architecture.png)
+* *Diagram: Translating fragmented static PDFs into a dynamic UI using Gemini.*
+* ![Nyamp App Mobile UI](nyamp_mobile_ui.png)
+* ![Nyamp App Desktop UI](nyamp_desktop_ui.png)
 ---
 
 ## 🛠 Technical Framework: Vibe Coding
